@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+*.app
+bin/data/Monp.JPG
+
+bin/data/make_a_quicktime_vr_in_10_mnts.jpg
+
+bin/data/pano.jpg
+
+bin/data/PanoConcordiAstro.jpg
